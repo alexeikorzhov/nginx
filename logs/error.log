@@ -1,0 +1,49 @@
+2017/06/01 13:30:09 [error] 5059#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 13:30:09 [error] 5059#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 13:39:42 [notice] 17245#0: signal process started
+2017/06/01 14:03:38 [notice] 18861#0: signal process started
+2017/06/01 14:04:20 [error] 18968#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 14:04:20 [error] 18968#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 14:04:26 [notice] 18969#0: signal process started
+2017/06/01 14:59:06 [notice] 20100#0: signal process started
+2017/06/01 14:59:19 [error] 20107#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2017/06/01 14:59:19 [error] 20107#0: *1 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2017/06/01 15:03:01 [notice] 20226#0: signal process started
+2017/06/01 15:03:18 [error] 20229#0: *3 open() "/home/aliaksei_karzhou/nginx/html/resources/pictures/pictures" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures HTTP/1.1", host: "localhost:8080"
+2017/06/01 15:07:08 [notice] 20269#0: signal process started
+2017/06/01 15:07:12 [error] 20272#0: *1 directory index of "/home/aliaksei_karzhou/nginx/html/resources/pictures/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /pictures/ HTTP/1.1", host: "localhost:8080"
+2017/06/01 15:07:32 [error] 20272#0: *1 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2017/06/01 15:10:35 [notice] 20424#0: signal process started
+2017/06/01 15:11:29 [emerg] 20430#0: invalid number of arguments in "include" directive in /home/aliaksei_karzhou/nginx/conf/nginx.conf:27
+2017/06/01 15:11:50 [notice] 20440#0: signal process started
+2017/06/01 15:12:44 [error] 20443#0: *1 open() "/home/aliaksei_karzhou/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2017/06/01 15:24:32 [notice] 20591#0: signal process started
+2017/06/01 15:24:49 [error] 20594#0: *3 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.145:8080"
+2017/06/01 15:34:41 [notice] 20738#0: signal process started
+2017/06/01 15:36:07 [emerg] 20757#0: unexpected "}" in /home/aliaksei_karzhou/nginx/conf/pictures.conf:17
+2017/06/01 15:36:21 [notice] 20759#0: signal process started
+2017/06/01 15:46:49 [error] 20762#0: *4 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.145, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.145:8080"
+2017/06/01 15:46:49 [error] 20762#0: *4 open() "/home/aliaksei_karzhou/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.145, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.145:8080"
+2017/06/01 15:47:42 [emerg] 20885#0: unexpected "}" in /home/aliaksei_karzhou/nginx/conf/pictures.conf:23
+2017/06/01 15:47:50 [notice] 20886#0: signal process started
+2017/06/01 15:48:20 [notice] 20893#0: signal process started
+2017/06/01 15:48:26 [error] 20896#0: *1 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.145, request: "GET /status HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:01:10 [notice] 21104#0: signal process started
+2017/06/01 16:01:13 [error] 21107#0: *1 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:01:41 [notice] 21117#0: signal process started
+2017/06/01 16:01:44 [error] 21120#0: *1 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:01:48 [error] 21120#0: *2 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:02:15 [notice] 21122#0: signal process started
+2017/06/01 16:02:16 [notice] 21123#0: signal process started
+2017/06/01 16:02:16 [error] 21123#0: open() "/home/aliaksei_karzhou/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2017/06/01 16:02:22 [error] 21126#0: *1 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:02:44 [notice] 21137#0: signal process started
+2017/06/01 16:02:49 [error] 21140#0: *1 open() "/home/aliaksei_karzhou/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:04:56 [notice] 21166#0: signal process started
+2017/06/01 16:15:03 [notice] 21299#0: signal process started
+2017/06/01 16:16:17 [notice] 21312#0: signal process started
+2017/06/01 16:19:49 [error] 21315#0: *18 user "sd" was not found in "/home/aliaksei_karzhou/nginx/conf/.htpasswd", client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:19:53 [error] 21315#0: *18 user "sds" was not found in "/home/aliaksei_karzhou/nginx/conf/.htpasswd", client: 192.168.122.145, server: 192.168.122.145, request: "GET /admin HTTP/1.1", host: "192.168.122.145:8080", referrer: "http://192.168.122.145:8080/"
+2017/06/01 16:28:16 [emerg] 21531#0: open() "/home/aliaksei_karzhou/nginx/conf/backend.conf" failed (2: No such file or directory) in /home/aliaksei_karzhou/nginx/conf/nginx.conf:19
+2017/06/01 16:29:12 [notice] 21554#0: signal process started
+2017/06/01 16:30:24 [error] 21557#0: *1 open() "/home/aliaksei_karzhou/nginx/html/404" failed (2: No such file or directory), client: 192.168.122.145, server: 192.168.122.145, request: "GET /404 HTTP/1.1", host: "192.168.122.145:8080"
